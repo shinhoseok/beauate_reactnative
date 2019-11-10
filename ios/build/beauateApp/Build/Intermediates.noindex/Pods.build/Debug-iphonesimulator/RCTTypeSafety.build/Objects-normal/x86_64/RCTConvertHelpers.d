@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/dwebss/beauate_reactnative/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/dwebss/beauate_reactnative/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/Optional.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/Portability.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/CPortability.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/Traits.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/Utility.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

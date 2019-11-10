@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Target\ Support\ Files/React-Core/React-Core-dummy.m \
+  /Users/dwebss/beauate_reactnative/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch

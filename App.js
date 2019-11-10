@@ -7,7 +7,7 @@ const App: () => React$Node = () => {
   return (
     <WebView
       source={{ uri: 'https://m.beauate.com' }}
-      style={{ marginTop: Platform.OS === 'ios' ? 20 : 0 }}
+      style={{ marginTop: Platform.OS === 'ios' ? 30 : 0 }}
     />
   );
 };
